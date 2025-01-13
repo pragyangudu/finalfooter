@@ -1,0 +1,53 @@
+/* .body{
+    background-color: black;
+} */
+.navbar2 {
+    position: absolute;
+    left: 4px;
+    margin-left: 10px;
+}
+.navbar-brand {
+    position: relative;
+    left: 70px;
+    color: white;
+}
+
+.navigation {
+
+   background: linear-gradient(90deg, rgba(36, 17, 174, 0.97) 0%, rgba(80, 234, 157, 0.97) 100%);
+    
+}
+
+.navbar-toggler {
+    color: aliceblue;
+}
+
+.searchlogo {
+    width: 4vw;
+    height: 4vh;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+}
+.accountlogo{
+    width: 2vw;
+    height: 4vh;
+    
+}
+.aclo{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.form-control {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 23px;
+  
+}
+.card1{
+    
+    display: flex;
+}
+.card2{
+    
+    display: flex;
+}
