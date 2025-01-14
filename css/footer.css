@@ -1,0 +1,44 @@
+.foot {
+  background: url("background.svg") no-repeat center center/cover;
+  color: white;
+}
+
+.foot h5 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.foot ul {
+  padding: 0;
+  list-style: none;
+  position: relative;
+  top: 5vh;
+}
+
+.foot ul li {
+  margin: 0 10px;
+  
+}
+
+.foot a {
+  color: white;
+  text-decoration: none;
+  
+}
+
+.foot img {
+  max-width: 100%;
+  height: auto;
+}
+
+.border-top {
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.cen {
+  width: max-content !important;
+  margin-left: 10vw;
+  width: 3rem;
+  position: relative;
+  top: 5vh;
+}
