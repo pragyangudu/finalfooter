@@ -1,5 +1,5 @@
 .foot {
-  background: url("background.svg") no-repeat center center/cover;
+  background: url("../images/background.svg") no-repeat center center/cover;
   color: white;
 }
 
@@ -11,19 +11,15 @@
 .foot ul {
   padding: 0;
   list-style: none;
-  position: relative;
-  top: 5vh;
 }
 
 .foot ul li {
   margin: 0 10px;
-  
 }
 
 .foot a {
   color: white;
   text-decoration: none;
-  
 }
 
 .foot img {
@@ -37,8 +33,10 @@
 
 .cen {
   width: max-content !important;
-  margin-left: 10vw;
+  margin-left: 30vw;
   width: 3rem;
   position: relative;
   top: 5vh;
 }
+
+
