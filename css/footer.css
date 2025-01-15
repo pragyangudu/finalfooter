@@ -11,15 +11,19 @@
 .foot ul {
   padding: 0;
   list-style: none;
+  position: relative;
+  top: 5vh;
 }
 
 .foot ul li {
   margin: 0 10px;
+  
 }
 
 .foot a {
   color: white;
   text-decoration: none;
+  
 }
 
 .foot img {
@@ -30,13 +34,3 @@
 .border-top {
   border-top: 1px solid rgba(255, 255, 255, 0.3);
 }
-
-.cen {
-  width: max-content !important;
-  margin-left: 30vw;
-  width: 3rem;
-  position: relative;
-  top: 5vh;
-}
-
-
